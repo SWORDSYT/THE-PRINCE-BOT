@@ -13,7 +13,7 @@ import moment from "moment-timezone"
 
 global.owner = [
   ["2349060187481", "SWORDS", false],
-  ["2347026587099", "MINIM", false], 
+  ["234 812 090 4356", "MINIM", false], 
   [''] 
 ]
 //💌------------------------------------------💌
@@ -120,10 +120,10 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = 'REAPER'
+global.botname = 'MINIM'
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.author = 'PRINCE' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
