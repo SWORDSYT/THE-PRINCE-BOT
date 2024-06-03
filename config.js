@@ -12,8 +12,8 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["2349060187481", "SWORDS", false],
-  ["234 812 090 4356", "MINIM", false], 
+  ["2349060187481", "SWORDS", true],
+  ["234 812 090 4356", "MINIM", true], 
   [''] 
 ]
 //💌------------------------------------------💌
